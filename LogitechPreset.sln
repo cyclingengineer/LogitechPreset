@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogitechPreset", "LogitechPreset\LogitechPreset.vcxproj", "{0ABDCF26-EB03-4F07-A7FA-864890E4DBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABDCF26-EB03-4F07-A7FA-864890E4DBF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0ABDCF26-EB03-4F07-A7FA-864890E4DBF2}.Debug|Win32.Build.0 = Debug|Win32
+		{0ABDCF26-EB03-4F07-A7FA-864890E4DBF2}.Release|Win32.ActiveCfg = Release|Win32
+		{0ABDCF26-EB03-4F07-A7FA-864890E4DBF2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
